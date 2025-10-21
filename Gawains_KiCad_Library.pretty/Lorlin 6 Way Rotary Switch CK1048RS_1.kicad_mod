@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 2.54 0)
+		(at -5.7 -2.8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "25d126aa-0f22-493e-a6e4-982ca972f72b")
@@ -88,7 +88,7 @@
 		(uuid "92e07644-46da-4135-b0d4-e2bc9db4e674")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 5.08 0)
+		(at -3 -0.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "9eaae963-bf28-4320-8f26-07df58d4f694")
@@ -202,6 +202,14 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "040296d8-a6b5-4ac9-bb42-03f9c053720a")
+	)
+	(pad "14" thru_hole circle
+		(at 0 3.4)
+		(size 2.7 2.7)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3b701d57-3849-4943-8dd2-53e70d193fa1")
 	)
 	(embedded_fonts no)
 )
