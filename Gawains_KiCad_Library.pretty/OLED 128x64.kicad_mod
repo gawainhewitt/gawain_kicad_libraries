@@ -237,4 +237,26 @@
 		(uuid "93bfd07d-a7c3-43fe-ab14-7bc054b1e5c0")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../library/3d_models/headers/4pinHeaderSocket.step"
+		(offset
+			(xyz 0 7.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/../library/3d_models/screens/128x64I2COLEDDisplayAdafruit.STEP"
+		(offset
+			(xyz 34.25 0.5 12)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
