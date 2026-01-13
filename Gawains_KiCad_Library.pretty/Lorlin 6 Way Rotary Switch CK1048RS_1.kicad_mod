@@ -212,4 +212,15 @@
 		(uuid "3b701d57-3849-4943-8dd2-53e70d193fa1")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../library/3d_models/switches/LORLIN_CK1049.STEP"
+		(offset
+			(xyz 0 0 9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -165)
+		)
+	)
 )
