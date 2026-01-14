@@ -132,4 +132,15 @@
 		(uuid "75e94ff3-9a46-463a-b824-3d6186c0fa1c")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../library/3d_models/development_boards/buckBoost.step"
+		(offset
+			(xyz -2.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )
