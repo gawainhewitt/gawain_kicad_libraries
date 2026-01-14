@@ -259,4 +259,15 @@
 		(uuid "74ca5e29-7d3b-440c-97a7-8cf12c451b37")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../library/3d_models/development_boards/i2s_board.step"
+		(offset
+			(xyz 1 0 8.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
 )

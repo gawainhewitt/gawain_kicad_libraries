@@ -190,4 +190,15 @@
 		(uuid "73a428a1-0b17-4461-a6ab-86b24d8223b5")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/../library/3d_models/development_boards/SD_CARD_BREAKOUT_floating.step"
+		(offset
+			(xyz 10.5 13.5 10.3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
 )
