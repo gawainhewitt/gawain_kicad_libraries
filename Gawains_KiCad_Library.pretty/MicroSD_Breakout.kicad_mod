@@ -192,7 +192,7 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/../library/3d_models/development_boards/SD_CARD_BREAKOUT_floating.step"
 		(offset
-			(xyz 10.5 13.5 10.3)
+			(xyz 10.5 13.5 12.6)
 		)
 		(scale
 			(xyz 1 1 1)

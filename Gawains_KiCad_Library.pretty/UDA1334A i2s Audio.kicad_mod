@@ -261,7 +261,7 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/../library/3d_models/development_boards/i2s_board.step"
 		(offset
-			(xyz 1 0 8.5)
+			(xyz 1 0 10.9)
 		)
 		(scale
 			(xyz 1 1 1)
